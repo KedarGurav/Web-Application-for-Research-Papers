@@ -1,0 +1,7 @@
+streamlit
+langchain
+google-generativeai
+python-dotenv
+nltk
+arxiv
+langchain_google_genai
